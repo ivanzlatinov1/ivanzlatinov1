@@ -4,14 +4,14 @@
 <p align="center">
   🔭 I’m currently working on <a href="https://github.com/ivanzlatinov1/HVACrate"><strong>HVACrate</strong></a> <br>
   🌱 I’m currently learning <strong>DevOps</strong> <br>
-  📫 Reach me at: <a href="mailto:ivanzlatinov06@gmail.com">ivanzlatinov06@gmail.com</a>
+  📫 Reach me at: <a href="mailto:ivanzlatinov006@gmail.com">ivanzlatinov006@gmail.com</a>
 </p>
 
 ---
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/ivan-zlatinov" target="_blank">
+  <a href="[https://linkedin.com/in/ivan-zlatinov](https://www.linkedin.com/in/ivan-zlatinov-11a2a8325/)" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/zlatinovv" target="_blank">
