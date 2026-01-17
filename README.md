@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ivan Zlatinov</h1>
-<h3 align="center">A C# Full-Stack Developer from Bulgaria</h3>
+<h3 align="center">A C# Web Developer from Bulgaria</h3>
 
 <p align="center">
   🔭 I’m currently working on <a href="https://github.com/ivanzlatinov1/HVACrate"><strong>HVACrate</strong></a> <br>
-  🌱 I’m currently learning <strong>DevOps</strong> <br>
+  🌱 I’m currently learning <strong>Cybersecurity</strong> <br>
   📫 Reach me at: <a href="mailto:ivanzlatinov006@gmail.com">ivanzlatinov006@gmail.com</a>
 </p>
 
