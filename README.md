@@ -1,72 +1,84 @@
-<h1 align="center">Hi 👋, I'm Ivan Zlatinov</h1>
-<h3 align="center">A C# Web Developer from Bulgaria</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=a855f7&height=240&section=header&text=Ivan%20Zlatinov&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=.NET%20Full-Stack%20Developer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%"/>
+</div>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=a855f7&center=true&vCenter=true&width=600&lines=🚀+C%23+Web+Developer;💡+Always+learning,+always+improving;🔐+Currently+diving+into+Cybersecurity)](https://git.io/typing-svg)
+
+<br/>
+
+![](https://img.shields.io/badge/📍-Sofia,_Bulgaria-a855f7?style=for-the-badge&labelColor=0d1117)
+&nbsp;
+![](https://img.shields.io/badge/📚-Cybersecurity-a855f7?style=for-the-badge&labelColor=0d1117)
+&nbsp;
+![](https://img.shields.io/badge/🎓-SoftUni-a855f7?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+---
+
+<h3 align="center">🛠️ Programming Languages & Tools</h3>
+
+<h4 align="center"><b>Languages & Web Technologies<b></h3>
 
 <p align="center">
-  🔭 I’m currently working on <a href="https://github.com/ivanzlatinov1/HVACrate"><strong>HVACrate</strong></a> <br>
-  🌱 I’m currently learning <strong>Cybersecurity</strong> <br>
-  📫 Reach me at: <a href="mailto:ivanzlatinov006@gmail.com">ivanzlatinov006@gmail.com</a>
+  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" width="40" height="40" alt="C#"/></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet" width="40" height="40" alt=".NET"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="Bash"/></a>
+  <a href="https://www.electronjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=electron" width="40" height="40" alt="Electron"/></a>
+</p>
+
+<h4 align="center"><b>Frontend Frameworks<b></h3>
+
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind"/></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap"/></a>
+</p>
+
+<h4 align="center"><b>Database & Data Management<b></h3>
+
+<p align="center">
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/></a>
+</p>
+
+<h4 align="center"><b>DevOps & Cloud<b></h3>
+
+<p align="center">
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker"/></a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="Azure"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux"/></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" alt="GitHub Actions"/></a>
 </p>
 
 ---
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
-  <a href="[https://linkedin.com/in/ivan-zlatinov](https://www.linkedin.com/in/ivan-zlatinov-11a2a8325/)" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/zlatinovv" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+<h3 align="center">📫 Reach Me At</h3>
 
----
-
-<h3 align="center">Languages & Tools</h3>
 <p align="center">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/ivan-zlatinov-11a2a8325/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35"/>
   </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ivanzlatinov006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
   </a>
 </p>
 
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanzlatinov1&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_color=0a0f3c" alt="Top Languages" />
-</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanzlatinov1&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_color=0a0f3c" height="200"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=a855f7&height=120&section=footer" width="100%"/>
+</div>
