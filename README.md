@@ -76,7 +76,7 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanzlatinov1&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_color=0a0f3c" height="200"/>
+  <img src="https://github-readme-stats-eight-theta-72.vercel.app/api/top-langs/?username=ivanzlatinov1&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_color=0a0f3c" height="200"/>
 </div>
 
 <div align="center">
