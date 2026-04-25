@@ -21,41 +21,65 @@
 
 <h4 align="center"><b>Languages & Web Technologies<b></h3>
 
-<p align="center">
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" width="40" height="40" alt="C#"/></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet" width="40" height="40" alt=".NET"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="Bash"/></a>
-  <a href="https://www.electronjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=electron" width="40" height="40" alt="Electron"/></a>
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td><a href="https://www.w3schools.com/cs/"><img src="https://skillicons.dev/icons?i=cs" width="40"/></a></td>
+    <td><a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet" width="40"/></a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="40"/></a></td>
+    <td><a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="40"/></a></td>
+    <td><a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" width="40"/></a></td>
+    <td><a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" width="40"/></a></td>
+    <td><a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" width="40"/></a></td>
+    <td><a href="https://www.electronjs.org/"><img src="https://skillicons.dev/icons?i=electron" width="40"/></a></td>
+  </tr>
+</table>
+
+</div>
 
 <h4 align="center"><b>Frontend Frameworks<b></h3>
 
-<p align="center">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap"/></a>
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td><a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" width="40"/></a></td>
+    <td><a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/></a></td>
+    <td><a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="40"/></a></td>
+  </tr>
+</table>
+
+</div>
 
 <h4 align="center"><b>Database & Data Management<b></h3>
 
-<p align="center">
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/></a>
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td><a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL"/></a></td>
+    <td><a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/></a></td>
+  </tr>
+</table>
+
+</div>
 
 <h4 align="center"><b>DevOps & Cloud<b></h3>
 
-<p align="center">
-  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker"/></a>
-  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="Azure"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux"/></a>
-  <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" alt="GitHub Actions"/></a>
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td><a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="40"/></a></td>
+    <td><a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure" width="40"/></a></td>
+    <td><a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="40"/></a></td>
+    <td><a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="40"/></a></td>
+    <td><a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" width="40"/></a></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
